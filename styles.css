@@ -1,0 +1,18 @@
+.listBox {
+    display: flex;
+    flex-direction: column;
+}
+
+.main {
+    display: inline;
+    position: relative;
+}
+
+.main-input {
+    display: flex;
+    flex-direction: row;
+}
+
+.listBox {
+    display: inline;
+}
